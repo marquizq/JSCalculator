@@ -1,0 +1,38 @@
+
+input:hover {
+  background-color: #eaeaea;
+}
+	input{
+		background-image: linear-gradient(to bottom,transparent,transparent 50%,rgba(0,0,0,.04));
+    border-radius: 5px;
+	background-color: transparent;
+	color:black;
+	font-size:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:19px;
+	padding-right:19px;
+	margin:6px;
+	border:1px solid black;
+	}
+		form{
+
+	width:440px;
+	padding:25px;
+	margin:auto;
+	border:2px solid black;
+	border-radius:15px 15px;
+	}
+
+	h2{
+	text-align:center;
+	}
+	s
+	h2 {
+	color:black;
+	}
+	
+	.sc{
+	background:#fff;
+	color:#000;
+	}
